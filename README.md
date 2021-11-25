@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @10beerl, a 4th year mechanical engineering student at Brunel University - Londom
+- 👋 Hi, I’m @10beerl, a 4th year mechanical engineering student at Brunel University - London
 - 👀 I’m interested in Learning programming languages and developing software
 - 🌱 I’m currently learning python, C++, SQL along with JS, HTML and CSS with online courses 
 
